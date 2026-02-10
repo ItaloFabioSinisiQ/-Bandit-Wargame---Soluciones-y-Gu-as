@@ -74,9 +74,9 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ### 🎬 Video Completo - Todos los Niveles
 
-[![Video Completo Bandit](https://img.youtube.com/vi/VIDEO_ID_COMPLETO/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_COMPLETO)
+[![Video Completo Bandit](https://img.youtube.com/vi/VIDEO_ID_COMPLETO/maxresdefault.jpg)](https://www.youtube.com/watch?v=zU4smA3kv8YNJIWJ)
 
-> **[▶️ Ver Playlist Completa en YouTube](https://www.youtube.com/playlist?list=TU_PLAYLIST_ID)**
+> **[▶️ Ver Playlist Completa en YouTube](https://www.youtube.com/playlist?list=zU4smA3kv8YNJIWJ)**
 
 ---
 
