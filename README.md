@@ -95,7 +95,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 📄 **[Ver Guía Completa](./Bandit_0.md)**
 
-🎥 **[Ver Video](#)**
+🎥 **[Ver Video](#https://youtu.be/toa8Ik1HEIs?si=9dfD4NoMf-xhL1Yy)**
 
 </td>
 </tr>
