@@ -1060,7 +1060,7 @@ cat /tmp/bandit24_pass.txt
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_24___Nivel_25.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/TSXojR_1_-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=TSXojR_1_-E)
 
 </td>
 </tr>
@@ -1096,7 +1096,9 @@ done | nc localhost 30002 | grep -v "Wrong"
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_25___Nivel_26.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/1IagRmddAs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=1IagRmddAs4)
+
+> ▶️ Haz clic en la imagen para reproducir el video
 
 </td>
 </tr>
@@ -1133,7 +1135,7 @@ done | nc localhost 30002 | grep -v "Wrong"
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_26___Nivel_27.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/1IagRmddAs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=1IagRmddAs4)
 
 </td>
 </tr>
@@ -1167,7 +1169,7 @@ done | nc localhost 30002 | grep -v "Wrong"
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_27___Nivel_28.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/nKopSn-Mm34/maxresdefault.jpg)](https://www.youtube.com/watch?v=nKopSn-Mm34)
 
 </td>
 </tr>
@@ -1202,7 +1204,7 @@ cd repo && cat README
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_28___Nivel_29.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/xvy7OkkozwI/maxresdefault.jpg)](https://www.youtube.com/watch?v=xvy7OkkozwI)
 
 </td>
 </tr>
@@ -1238,7 +1240,7 @@ cat README.md
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_29___Nivel_30.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/7HtR0dZRTYE/maxresdefault.jpg)](https://www.youtube.com/watch?v=7HtR0dZRTYE)
 
 </td>
 </tr>
@@ -1274,7 +1276,7 @@ cat README.md
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_30___Nivel_31.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/G2D6WjgDTk4/maxresdefault.jpg)](https://www.youtube.com/watch?v=G2D6WjgDTk4)
 
 </td>
 </tr>
@@ -1309,7 +1311,7 @@ git show secret
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_31___Nivel_32.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/XE31E2BJklg/maxresdefault.jpg)](https://www.youtube.com/watch?v=XE31E2BJklg)
 
 </td>
 </tr>
@@ -1346,7 +1348,7 @@ git push origin master
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_32___Nivel_33.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/fetSnzoJ85E/maxresdefault.jpg)](https://www.youtube.com/watch?v=fetSnzoJ85E)
 
 </td>
 </tr>
