@@ -941,8 +941,6 @@ echo "PASSWORD" | nc -lvp 1234
 
 [![Ver Video](https://img.youtube.com/vi/oCBpESKxdms/maxresdefault.jpg)](https://www.youtube.com/watch?v=oCBpESKxdms)
 
-> ▶️ Haz clic en la imagen para reproducir el video
-
 </td>
 </tr>
 </table>
@@ -978,8 +976,6 @@ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 📄 **[Ver Guía Completa](./Bandit_Nivel_22___Nivel_23.md)**
 
 [![Ver Video](https://img.youtube.com/vi/WmvBYyB1V4M/maxresdefault.jpg)](https://www.youtube.com/watch?v=WmvBYyB1V4M)
-
-> ▶️ Haz clic en la imagen para reproducir el video
 
 </td>
 </tr>
@@ -1026,7 +1022,8 @@ _¡Mantente atento para más actualizaciones!_
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_23___Nivel_24.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/EuiWXSu7WLU/maxresdefault.jpg)](https://www.youtube.com/watch?v=EuiWXSu7WLU)
+
 
 </td>
 </tr>
