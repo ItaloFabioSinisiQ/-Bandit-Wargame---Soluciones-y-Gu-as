@@ -164,7 +164,9 @@ cat readme
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_1___Nivel_2.md)**
 
-🎥 **[Ver Video](https://www.youtube.com/watch?v=3F2V0pH3UH0)**
+🎥 ## 📺 Demo del Proyecto
+
+[![Ver Video](https://img.youtube.com/vi/2hVDXQJrodI/maxresdefault.jpg)](https://www.youtube.com/watch?v=2hVDXQJrodI)
 
 </td>
 </tr>
