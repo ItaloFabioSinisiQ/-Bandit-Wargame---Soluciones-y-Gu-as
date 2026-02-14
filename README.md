@@ -74,7 +74,9 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ### 🎬 Video Completo - Todos los Niveles
 
-[![Video Completo Bandit](https://img.youtube.com/vi/VIDEO_ID_COMPLETO/maxresdefault.jpg)](https://www.youtube.com/watch?v=55ZRou76d-U)
+[![Video Completo Bandit](https://img.youtube.com/vi/55ZRou76d-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=55ZRou76d-U)
+
+> ▶️ Haz clic en la imagen para ver el funcionamiento completo del sistema.
 
 ---
 
@@ -163,8 +165,6 @@ cat readme
 <td width="30%" align="center">
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_1___Nivel_2.md)**
-
-🎥 ## 📺 Demo del Proyecto
 
 [![Ver Video](https://img.youtube.com/vi/2hVDXQJrodI/maxresdefault.jpg)](https://www.youtube.com/watch?v=2hVDXQJrodI)
 
