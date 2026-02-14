@@ -239,7 +239,7 @@ cat spaces\ in\ this\ filename
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_3___Nivel_4.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/qI9vrU2C9HU/maxresdefault.jpg)](https://www.youtube.com/watch?v=qI9vrU2C9HU)
 
 </td>
 </tr>
@@ -275,7 +275,7 @@ cat .hidden
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_4___Nivel_5.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/qI9vrU2C9HU/maxresdefault.jpg)](https://www.youtube.com/watch?v=qI9vrU2C9HU)
 
 </td>
 </tr>
@@ -311,7 +311,7 @@ cat ./-file07
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_5___Nivel_6.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/qI9vrU2C9HU/maxresdefault.jpg)](https://www.youtube.com/watch?v=qI9vrU2C9HU)
 
 </td>
 </tr>
@@ -346,7 +346,7 @@ cat inhere/maybehere07/.file2
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_6___Nivel_7.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/3F2V0pH3UH0/maxresdefault.jpg)](https://www.youtube.com/watch?v=3F2V0pH3UH0)
 
 </td>
 </tr>
@@ -380,8 +380,7 @@ cat /var/lib/dpkg/info/bandit7.password
 <td width="30%" align="center">
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_7___Nivel_8.md)**
-
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/3F2V0pH3UH0/maxresdefault.jpg)](https://www.youtube.com/watch?v=3F2V0pH3UH0)
 
 </td>
 </tr>
@@ -415,7 +414,7 @@ grep millionth data.txt
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_8___Nivel_9.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/KqmTxUqrpso/maxresdefault.jpg)](https://www.youtube.com/watch?v=KqmTxUqrpso)
 
 </td>
 </tr>
@@ -449,7 +448,7 @@ sort data.txt | uniq -u
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_9___Nivel_10.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/ICE0quv62Ic/maxresdefault.jpg)](https://www.youtube.com/watch?v=ICE0quv62Ic)
 
 </td>
 </tr>
@@ -483,7 +482,7 @@ strings data.txt | grep "="
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_10___Nivel_11.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/5J_BX48Blkk/maxresdefault.jpg)](https://www.youtube.com/watch?v=5J_BX48Blkk)
 
 </td>
 </tr>
