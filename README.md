@@ -96,7 +96,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 <td width="30%" align="center">
 
 📄 **[Ver Guía Completa](./Bandit_0.md)**
-🎥 **[Ver Video](https://youtu.be/toa8Ik1HEIs?si=9dfD4NoMf-xhL1Yy)**
+
+[![Ver Video](https://img.youtube.com/vi/toa8Ik1HEIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=toa8Ik1HEIs)
 
 </td>
 </tr>
@@ -131,7 +132,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_0___Nivel_1.md)**
 
-🎥 **[Ver Video](https://www.youtube.com/watch?v=qI9vrU2C9HU)**
+[![Ver Video](https://img.youtube.com/vi/RtctQbu7oOk/maxresdefault.jpg)](https://www.youtube.com/watch?v=RtctQbu7oOk)
 
 </td>
 </tr>
@@ -202,7 +203,7 @@ cat -- -
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_2___Nivel_3.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/GCOabY0Y9UA/maxresdefault.jpg)](https://www.youtube.com/watch?v=GCOabY0Y9UA)
 
 </td>
 </tr>
