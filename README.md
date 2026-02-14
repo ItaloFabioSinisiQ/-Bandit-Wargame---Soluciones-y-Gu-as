@@ -765,7 +765,7 @@ echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | openssl s_client -connect localhost:30
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_16___Nivel_17.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/if-JH8htZss/maxresdefault.jpg)](https://www.youtube.com/watch?v=if-JH8htZss)
 
 </td>
 </tr>
@@ -800,7 +800,7 @@ echo "PASSWORD" | openssl s_client -connect localhost:31790 -quiet
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_17___Nivel_18.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/OPfZXxeemko/maxresdefault.jpg)](https://www.youtube.com/watch?v=OPfZXxeemko)
 
 </td>
 </tr>
@@ -834,7 +834,7 @@ diff passwords.old passwords.new
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_18___Nivel_19.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/G07CB-occe8/maxresdefault.jpg)](https://www.youtube.com/watch?v=G07CB-occe8)
 
 </td>
 </tr>
@@ -868,7 +868,7 @@ ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_19___Nivel_20.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/vtzKSdwgyIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=vtzKSdwgyIY)
 
 </td>
 </tr>
@@ -902,7 +902,7 @@ ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_20___Nivel_21.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/06TKpas8-ys/maxresdefault.jpg)](https://www.youtube.com/watch?v=06TKpas8-ys)
 
 </td>
 </tr>
@@ -939,7 +939,9 @@ echo "PASSWORD" | nc -lvp 1234
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_21___Nivel_22.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/oCBpESKxdms/maxresdefault.jpg)](https://www.youtube.com/watch?v=oCBpESKxdms)
+
+> ▶️ Haz clic en la imagen para reproducir el video
 
 </td>
 </tr>
@@ -975,7 +977,9 @@ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_22___Nivel_23.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/WmvBYyB1V4M/maxresdefault.jpg)](https://www.youtube.com/watch?v=WmvBYyB1V4M)
+
+> ▶️ Haz clic en la imagen para reproducir el video
 
 </td>
 </tr>
