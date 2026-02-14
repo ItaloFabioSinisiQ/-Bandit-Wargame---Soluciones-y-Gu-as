@@ -516,7 +516,7 @@ base64 -d data.txt
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_11___Nivel_12.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/FjuhNjiryR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=FjuhNjiryR0)
 
 </td>
 </tr>
@@ -550,7 +550,7 @@ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_12___Nivel_13.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/_AXS3w1ifAI/maxresdefault.jpg)](https://www.youtube.com/watch?v=_AXS3w1ifAI)
 
 </td>
 </tr>
@@ -586,7 +586,8 @@ xxd -r data.txt data.bin
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_13___Nivel_14.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/Nhl21fUsqQg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Nhl21fUsqQg)
+
 
 </td>
 </tr>
@@ -621,7 +622,8 @@ cat /etc/bandit_pass/bandit14
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_14___Nivel_15.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/Nhl21fUsqQg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Nhl21fUsqQg)
+
 
 </td>
 </tr>
@@ -729,7 +731,7 @@ Este repositorio tiene fines **educativos únicamente**. Se recomienda intentar 
 
 📄 **[Ver Guía Completa](./Bandit_Nivel_15___Nivel_16.md)**
 
-🎥 **[Ver Video](#)**
+[![Ver Video](https://img.youtube.com/vi/pLAs-UXQNfc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pLAs-UXQNfc)
 
 </td>
 </tr>
